@@ -5,7 +5,7 @@ public class constructor {
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
-		constructor obj1 = new constructor("Student1");
+		constructor obj1 = new constructor("Studen1");
 		//constructor obj2 = new constructor("Student2",27);
 		
 
